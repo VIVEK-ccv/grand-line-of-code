@@ -6,6 +6,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=35&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=SETTING+SAIL+FOR+THE+GRAND+LINE...;THE+ONE+PIECE+IS+REAL!!!!!;CODE+IS+MY+TREASURE...;I'M+GONNA+BECOME+THE+KING+OF+THE+DEVELOPERS!+🏴‍☠️" />
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003973,50:00B4DB,100:003973&height=150&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
+
 ### ⚓ VIVEK'S PIRATE DEVELOPER LOG ⚓
 
 </div>
@@ -479,3 +485,262 @@ ATTACK:
 STATUS:
 
 ⚔️ FIGHTING...
+---
+
+<div align="center">
+
+# ☠️ WANTED ☠️
+
+## DEAD OR ALIVE
+
+# 🏴‍☠️ VIVEK
+
+### 「 CAPTAIN OF THE GRAND LINE OF CODE 」
+
+<br>
+
+💰 **BOUNTY: ฿ 999,999,999**
+
+<br>
+
+⚠️ WANTED FOR:
+
+💻 Breaking bugs
+
+🔥 Building insane projects
+
+🧠 Stealing knowledge
+
+🏴‍☠️ Refusing to give up
+
+<br>
+
+### STATUS
+
+<img src="https://img.shields.io/badge/THREAT%20LEVEL-EMPEROR%20IN%20TRAINING-red?style=for-the-badge"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🎮 PIRATE STATUS SCREEN
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=25&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=PLAYER+STATUS+LOADING...;WELCOME+BACK%2C+CAPTAIN.;YOUR+ADVENTURE+CONTINUES..." />
+
+</div>
+
+<br>
+
+## 🏴‍☠️ CAPTAIN PROFILE
+
+### 👑 VIVEK
+
+> **Title:** Rookie of the Code Seas  
+> **Crew:** Grand Line Developers  
+> **Ship:** Thousand Codes Sunny  
+> **Current Arc:** Developer Training Arc  
+> **Dream:** Find the ultimate treasure of knowledge  
+
+---
+
+<div align="center">
+
+# ⚡ PIRATE STATS
+
+</div>
+
+### 💻 CODING
+`████████░░░░░░░░░░░░` **LEVELING UP**
+
+### 🧠 LOGIC
+`███████░░░░░░░░░░░░░` **TRAINING**
+
+### ⚔️ PROBLEM SOLVING
+`██████░░░░░░░░░░░░░░` **GRINDING**
+
+### 🌐 WEB DEVELOPMENT
+`████████░░░░░░░░░░░░` **BUILDING**
+
+### 🤖 AI / ML
+`████░░░░░░░░░░░░░░░░` **LOCKED ARC**
+
+---
+
+<div align="center">
+
+# 🎯 CURRENT QUEST
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=22&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=900&lines=QUEST+ACCEPTED!;BECOME+A+BETTER+DEVELOPER.;BUILD+PROJECTS.;DEFEAT+BUGS.;KEEP+SAILING..." />
+
+</div>
+
+### 🟡 MAIN QUEST
+
+> 🏴‍☠️ Become the strongest version of yourself.
+
+### 🟢 SIDE QUESTS
+
+- ⚔️ Master C Programming
+- 🐍 Learn Python
+- 🌐 Build websites
+- 💻 Create projects
+- 🧠 Improve problem solving
+
+### 🔒 SECRET QUEST
+
+> Find your own **ONE PIECE OF CODE** 👀🏴‍☠️
+
+---
+
+<div align="center">
+
+# ☠️ BOSS RUSH
+
+</div>
+
+### 🐛 BOSS #01 — SEGMENTATION FAULT
+
+**Difficulty:** ⭐⭐⭐
+
+⚔️ Weapon: Debugging
+
+🔥 Status: Fighting
+
+---
+
+### 💀 BOSS #02 — COMPILATION ERROR
+
+**Difficulty:** ⭐⭐⭐⭐
+
+⚔️ Weapon: Stack Overflow + Brain Power
+
+🔥 Status: Dangerous
+
+---
+
+### 😴 BOSS #03 — PROCRASTINATION
+
+**Difficulty:** ⭐⭐⭐⭐⭐
+
+⚔️ Weapon: Discipline
+
+🔥 Status: FINAL BOSS
+
+---
+
+<div align="center">
+
+<img src="https://i.giphy.com/bqd2d3SHaOEFhhar3o.gif" width="500"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 ACHIEVEMENTS UNLOCKED
+
+</div>
+
+🥉 **FIRST STEP**  
+Entered the world of programming.
+
+🥈 **FIRST COMMIT**  
+Established presence on GitHub.
+
+🥇 **PROJECT BUILDER**  
+Started turning ideas into reality.
+
+🏴‍☠️ **GRAND LINE EXPLORER**  
+Entered the dangerous seas of development.
+
+🔒 **PIRATE KING OF CODE**  
+*Achievement Locked... For Now.*
+
+---
+
+<div align="center">
+
+# 🌊 NEXT ARC PREVIEW
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=32&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=A+NEW+ISLAND+APPEARS...;A+NEW+POWER+AWAKENS...;A+NEW+PROJECT+BEGINS...;THE+ADVENTURE+CONTINUES..." />
+
+<br><br>
+
+## 🏴‍☠️ "A DREAM WITHOUT ACTION IS JUST A MAP WITHOUT A DESTINATION."
+
+### ⚓ KEEP CODING. KEEP DREAMING. KEEP SAILING.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="YOUR_SAILING_ANIMATION_LINK_HERE" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&size=35&duration=3500&pause=1200&color=FFD700&center=true&vCenter=true&width=1000&lines=THE+GRAND+LINE+OF+CODE+HAS+ONLY+JUST+BEGUN...;EVERY+PROJECT+IS+A+NEW+ISLAND.;EVERY+BUG+IS+A+NEW+ENEMY.;EVERY+COMMIT+MOVES+THE+SHIP+FORWARD.;THE+ADVENTURE+CONTINUES..." />
+
+<br><br>
+
+# 🏴‍☠️ THE CAPTAIN'S LOG
+
+> **Day ∞ — Still learning. Still building. Still sailing.**
+
+🌊 I may not know where every wave will take me.
+
+⚓ I may not have mastered every skill yet.
+
+💻 But every line of code takes me one step further.
+
+🏴‍☠️ And a pirate never abandons the journey halfway.
+
+<br>
+
+## ⚔️ CURRENT STATUS
+
+<img src="https://img.shields.io/badge/SHIP-THOUSAND%20CODES%20SUNNY-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAPTAIN-VIVEK-FF4500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESTINATION-LAUGH%20TALE-00BFFF?style=for-the-badge"/>
+
+<br><br>
+
+# ☠️ PIRATE'S PROMISE
+
+### I WILL KEEP LEARNING.
+
+### I WILL KEEP BUILDING.
+
+### I WILL KEEP FAILING.
+
+### I WILL KEEP COMING BACK STRONGER.
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Bungee&size=24&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=900&lines=NO+RETREAT.;NO+SURRENDER.;NO+ENDING.;ONLY+THE+NEXT+ADVENTURE." />
+
+<br><br>
+
+# 👑 THE TREASURE IS NOT THE END.
+
+## 🌊 THE JOURNEY IS.
+
+<br>
+
+### ⚓ CODE • DREAM • BUILD • SAIL ⚓
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=VIVEK-ccv&label=Pirates%20Who%20Visited&color=00BFFF&style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001F3F,50:0077B6,100:00B4D8&height=180&section=footer&text=SET%20SAIL%20FOR%20THE%20NEXT%20ARC%20🏴‍☠️&fontSize=28&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+
