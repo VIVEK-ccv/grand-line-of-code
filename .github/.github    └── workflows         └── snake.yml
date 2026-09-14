@@ -1,0 +1,29 @@
+name: 🏴‍☠️ Generate Sea King
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Sea King Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: VIVEK-ccv
+          outputs: |
+            dist/sea-king.svg?color_snake=orange&color_dots=#001f3f,#003f5c,#0077b6,#00b4d8,#90e0ef
+
+      - name: Push Sea King
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
